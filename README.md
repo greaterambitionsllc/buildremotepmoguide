@@ -932,7 +932,7 @@
   <div class="cover-grid"></div>
   <header class="cover-header">
     <div class="logo-block">
-      <span class="logo-name">greater ambitions</span>
+      <span class="logo-name">Greater Ambitions LLC</span>
       <span class="logo-sub">PM + Operations Consultancy</span>
     </div>
     <span class="cover-badge">Free Digital Guide</span>
@@ -1587,7 +1587,7 @@
 <footer class="footer">
   <div class="page">
     <div class="footer-brand">
-      greater ambitions
+      Greater Ambitions LLC
       <span>PM + Operations Consultancy</span>
     </div>
     <div class="footer-copy">
