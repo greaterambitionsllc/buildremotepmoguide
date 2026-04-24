@@ -1,5 +1,4 @@
 # buildremotepmoguide
-[remote-pmo-guide.html](https://github.com/user-attachments/files/27031475/remote-pmo-guide.html)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
