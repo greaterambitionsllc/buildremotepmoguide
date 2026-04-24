@@ -20,9 +20,11 @@
 
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-  html { scroll-behavior: smooth; }
+  html { width: 100%; height: 100%; scroll-behavior: smooth; }
 
   body {
+    width: 100%; 
+    height: 100%; 
     font-family: 'DM Sans', sans-serif;
     background: var(--warm-white);
     color: var(--charcoal);
